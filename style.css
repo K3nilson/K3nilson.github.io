@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(0, 0, 0, 0.808);
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+img{
+    width: 80px;
+    height: 60px;
+    border-radius: 20px;
+
+}
+h1{
+    color: aliceblue;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.562);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding-top: 20px;
+    width: 300px;
+    height: 500px;
+}
+h5{
+    color: chartreuse;
+}
+p{
+    color: rgba(201, 200, 200, 0.664);
+}
+button{
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgba(54, 51, 51, 0.808);
+    height: 50px;
+    color: rgba(250, 235, 215, 0.842);
+    border-color: rgba(54, 51, 51, 0.808);
+    margin-top: 5px;
+}
